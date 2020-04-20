@@ -4,7 +4,7 @@ module.exports = {
   author: "Sergei Tarasov aka MILITER https://htmlcssjs.pro master@htmlcssjs.pro",
   version: "1.0.0",
   license: prompt("license", "ISC"),
-  main: prompt("main", "gulpfile.js"),
+  main: prompt("main", "index.js"),
   scripts: {
     test: "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +27,7 @@ module.exports = {
     "node-sass": "^4.13.1",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
+    "webpack-stream": "^5.2.1",
     "yargs": "^15.3.1"
   },
   dependencies: {}
