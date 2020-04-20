@@ -1,0 +1,14 @@
+node.js: https://nodejs.org/
+npm-init по умолчанию: Users\htmlcssjs.pro\.npm-init.js
+npmrc: Users\htmlcssjs.pro\.npmrc
+
+git: https://git-scm.com/
+gitconfig: Users\htmlcssjs.pro\.gitconfig
+
+php: https://windows.php.net/download/
+composer: https://getcomposer.org/download/
+
+vscode: https://code.visualstudio.com/
+настройки vscode: Users\htmlcssjs.pro\AppData\Roaming\Code\User
+плагины vscod: Users\htmlcssjs.pro\.vscode\extensions
+Плагин Settings Sync: Сохраняет настройки в Gist на Github
